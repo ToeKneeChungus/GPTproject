@@ -20,7 +20,7 @@
 {"prompt": "What does area have to do with slope? | Chapter 9, Essence of calculus", "completion": "educational"},
 {"prompt": "Understand Calculus in 35 Minutes", "completion": "educational"},
 {"prompt": "Introduction to Calculus (1 of 2: Seeing the big picture)", "completion": "educational"},
-{"prompt": "ALL of calculus 3 in 8 minutes.", "completion": "educational"}
+{"prompt": "ALL of calculus 3 in 8 minutes.", "completion": "educational"},
 {"prompt": "The Minecraft VR Experience", "completion": "non educational"},
 {"prompt": "Destroying Friendships with the Minecraft Gravity Mod", "completion": "non educational"},
 {"prompt": "I Survived 100 Days as an ICE SPIDER in HARDCORE Minecraft!", "completion": "non educational"},
@@ -31,4 +31,24 @@
 {"prompt": "I Survived 100 Days as a DRAGON GOD in HARDCORE Minecraft!", "completion": "non educational"},
 {"prompt": "This Minecraft Three Player Prison is IMPOSSIBLE...", "completion": "non educational"},
 {"prompt": "I Built a Slime Farm in Skyblock, but it's Hardcore Minecraft Survival", "completion": "non educational"},
+{"prompt": "Why is calculus so ... EASY ?", "completion": "educational"},
+{"prompt": "Calculus in a nutshell", "completion": "educational"},
+{"prompt": "Calculus 1 - Full College Course", "completion": "educational"},
+{"prompt": "Precalculus Course", "completion": "educational"},
+{"prompt": "Understand Calculus in 10 Minutes", "completion": "educational"},
+{"prompt": "The Beauty of Calculus,” a Lecture by Steven Strogatz", "completion": "educational"},
+{"prompt": "Introductory Calculus Classes in a Nutshell", "completion": "educational"},
+{"prompt": "Introduction to Calculus: The Greeks, Newton, and Leibniz", "completion": "educational"},
+{"prompt": "Calculus at a Fifth Grade Level", "completion": "educational"},
+{"prompt": "💥💥💥Stuff You MUST Know Cold for the AP Calculus AB Exam💥💥💥[EVERYTHING YOU NEED TO KNOW] 2021", "completion": "educational"},
+{"prompt": "Taylor series | Chapter 11, Essence of calculus", "completion": "educational"},
+{"prompt": "100 calculus derivatives (extreme calculus tutorial)", "completion": "educational"},
+{"prompt": "MIT Integration Bee Final Round", "completion": "educational"},
+{"prompt": "Why Calculus? - Lesson 1 | Don't Memorise", "completion": "educational"},
+{"prompt": "Implicit differentiation, what's going on here? | Chapter 6, Essence of calculus", "completion": "educational"},
+{"prompt": "Calculus Help: Determine the area of the region bounded y=x^2-14x,y=0 - Techniques", "completion": "educational"},
+{"prompt": "Calculus – taught at the 8th grade level", "completion": "educational"},
+{"prompt": "What is Calculus - Lesson 2 | Limits | Don't Memorise", "completion": "educational"},
+{"prompt": "Introductory Calculus Classes in a Nutshell", "completion": "educational"}
+
 ]
