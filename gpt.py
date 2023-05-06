@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 model_engine = "text-davinci-003"
 s = input("type here: ")
